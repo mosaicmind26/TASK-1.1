@@ -1,0 +1,1 @@
+This file contains details of a new feature that I plan to implement in the project. The feature is aimed at improving user authentication by adding multi-factor authentication (MFA).
